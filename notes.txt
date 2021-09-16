@@ -1,0 +1,17 @@
+Create new project with mix
+  -> mix new <project-name>
+
+Compile code and enter to iex (in cmd)
+  -> iex -S mix
+Compile code and enter to iex (in powershell)
+  -> iex.bat -S mix
+
+Update iex console
+  -> recompile
+
+Creating documentation
+  -> install ex_doc to project
+  -> with command `mix docs` creates documentation
+
+Run tests
+  -> mix test
